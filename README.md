@@ -6,9 +6,11 @@
 
 - 📚 I’m currently learning **Rust、Web3**
 
+- 👀 I'm interesting in **Flutter、Media**
+
 - 📮 How to reach me **joechan-cq@outlook.com**
 
-<h4 align="left">Majors</h4>
+<h4 align="left">Major</h4>
 <div>
 <img src="https://img.shields.io/badge/Android-green.svg" style="display: inline-block" />
 <img src="https://img.shields.io/badge/Flutter-blue.svg" style="display: inline-block"/>
