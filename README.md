@@ -6,7 +6,7 @@
 
 - 📚 I’m currently learning **Rust、Web3**
 
-- 👀 I'm interesting in **Flutter、Media**
+- 👀 I'm interested in **Flutter、Media**
 
 - 📮 How to reach me **joechan-cq@outlook.com**
 
