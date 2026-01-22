@@ -29,7 +29,6 @@
 <h3/>
         </td>
         <td>
-            <p><img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=joechan-cq&theme=dracula" alt="joechan-cq" /></p>
             <p><img width="350" src="https://github-readme-stats.vercel.app/api?username=joechan-cq&show_icons=true&locale=en&theme=dracula" alt="joechan-cq" /></p>
             <p><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=joechan-cq&show_icons=true&locale=en&layout=compact&theme=dracula" alt="joechan-cq" /></p>
         </td>
