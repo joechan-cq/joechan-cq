@@ -4,10 +4,10 @@
     <tr>
         <td valign="top" width="550">
          <p>
-           
-- 📚 I’m currently learning **Rust、Web3**
 
 - 👀 I'm interested in **Flutter、Media**
+
+- ⌨️ My current work focuses on **Android**、**AI agents**
 
 - 📮 How to reach me **joechan-cq@outlook.com**
 
